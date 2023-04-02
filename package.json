@@ -1,0 +1,26 @@
+{
+  "name": "micro-uuid",
+  "version": "1.0.0",
+  "description": "A lightweight, fast, and secure UUID generator leveraging Node.js crypto module for generating v4 UUIDs.",
+  "repository": "levindixon/micro-uuid",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "uuid",
+    "guid",
+    "unique",
+    "identifier",
+    "random",
+    "generator",
+    "fast",
+    "secure",
+    "crypto"
+  ],
+  "author": "Levin Dixon",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
