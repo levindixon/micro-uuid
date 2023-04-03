@@ -2,10 +2,13 @@
   "name": "micro-uuid",
   "version": "1.0.0",
   "description": "A lightweight, fast, and secure UUID generator leveraging Node.js crypto module for generating v4 UUIDs.",
-  "repository": "levindixon/micro-uuid",
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levindixon/micro-uuid.git"
   },
   "keywords": [
     "uuid",
@@ -20,6 +23,10 @@
   ],
   "author": "Levin Dixon",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/levindixon/async-request-batcher/issues"
+  },
+  "homepage": "https://github.com/levindixon/async-request-batcher#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   }
